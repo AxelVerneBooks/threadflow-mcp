@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.AxelVerneBooks/threadflow-mcp",
+  "title": "ThreadFlow",
+  "description": "Draft and schedule X threads with enforced discipline: only validated drafts schedule or post, and any offer scoring below 45/100 is refused before publishing.",
+  "version": "0.1.0",
+  "websiteUrl": "https://axelverne.com/",
+  "repository": {
+    "url": "https://github.com/AxelVerneBooks/threadflow-mcp",
+    "source": "github"
+  }
+}
